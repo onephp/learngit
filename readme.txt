@@ -22,3 +22,8 @@ function b()
 {
 	echo 222;		
 }
+
+add a fucntion d
+function d() {
+	echo 444;		
+}
