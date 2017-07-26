@@ -1,4 +1,9 @@
 Git is a distribute version control system.
+
+add a fucntion c() {
+	echo 333;		
+}
+
 Git is free software distributed under the GPL.
 Git has a mutable index called stage add by caijia at 20170726.
 Git tracks changes if files add by Lee at 20170727.
